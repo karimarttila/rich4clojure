@@ -1,6 +1,8 @@
 (ns rich4clojure.elementary.problem-001
   (:require [hyperfiddle.rcf :refer [tests]]))
 
+;; KARI: DONE *************************************************
+
 ;; = Nothing but the Truth =
 ;; By 4Clojure user: dbyrne
 ;; Difficulty: Elementary
@@ -14,7 +16,7 @@
 ;; 
 ;; Don't over think it! Hint: true is equal to true.
 
-(def __ :tests-will-fail)
+(def __ true)
 
 (comment
   
