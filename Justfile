@@ -2,12 +2,12 @@
    just --list
 
 # Start backend repl with my toolbox.
-@backend-kari:
-    clj -M:kari -m nrepl.cmdline -i -C
+@backend-calva-kari:
+    clj -M:dev:calva:kari  -i -C
 
 # Lint
 @lint:
-    clj -m clj-kondo.main --lint src
+    clj -M:dev:kari -m clj-kondo.main --lint src
 
 
 

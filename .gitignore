@@ -11,3 +11,4 @@
 .lsp/sqlite*.db
 .DS_Store
 **/.cache
+/.clj-kondo
