@@ -1,6 +1,6 @@
 # Kari's Solutions to Rich 4Clojure
 
-I forked [PEZ/[rich4clojure](https://github.com/PEZ/rich4clojure) repo to do the Clojure exercises and save my progress in this forked Github repo.
+I forked [PEZ/rich4clojure](https://github.com/PEZ/rich4clojure) repo to do the Clojure exercises and save my progress in this forked Github repo.
 
 I add the line  
 `;; KARI: DONE *************************************************`  
